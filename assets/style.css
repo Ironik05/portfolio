@@ -280,7 +280,6 @@ circle:nth-child(2) {
     text-align: center;
     width: 60%;
     height: 55vh;
-    /* box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
     margin-bottom: 5px;
     margin: 5rem;
     background: rgba( 255, 255, 255, 0.25 );
@@ -289,6 +288,6 @@ backdrop-filter: blur( 4px );
 -webkit-backdrop-filter: blur( 4px );
 border-radius: 10px;
 border: 1px solid rgba( 255, 255, 255, 0.18 );
-git}
+}
 
 
